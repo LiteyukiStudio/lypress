@@ -1,5 +1,5 @@
 <div align="center">
-<h1><i>✨ LitePress ✨</i></h1>
+<h1><i>✨ LYPress ✨</i></h1>
 <p><b><i>下一代的Litedoc，Python模块文档构建工具</i></b></p>
 0.0.1开发中，敬请期待...
 </div>
