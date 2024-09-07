@@ -33,7 +33,7 @@ lypress build -i lypress_example -o docs
 
 ### 命令行
 
-初始化并生成默认配置文件到指定文件
+初始化并生成默认配置文件
 ```shell
 lypress init
 ```
