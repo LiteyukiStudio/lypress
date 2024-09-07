@@ -1,0 +1,15 @@
+[project]
+name = "litepress"
+version = "0.1.0"
+description = "Next generation of Litedoc"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "loguru>=0.7.2",
+    "pydantic>=2.9.0",
+]
+
+[tool.uv]
+dev-dependencies = [
+    "mypy>=1.11.2",
+]
